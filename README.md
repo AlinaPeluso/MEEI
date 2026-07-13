@@ -1,7 +1,8 @@
 # US Census Tract Multi-Exposure Environmental Index (MEEI)
 
 Reference paper:
-Peluso, A., Rastogi, D., Klasky, H.B., Logan, J., Maguire, D., Grant, J., Christian, B. and Hanson, H.A., 2024. "***Environmental determinants of health: Measuring multiple physical environmental exposures at the United States census tract level**," *Health & Place*, 89, p.103303. ISSN 1353-8292. [https://www.sciencedirect.com/science/article/pii/S135382922400131X](https://doi.org/10.1016/j.healthplace.2024.103303).
+
+Peluso, A., Rastogi, D., Klasky, H.B., Logan, J., Maguire, D., Grant, J., Christian, B. and Hanson, H.A., 2024. "**Environmental determinants of health: Measuring multiple physical environmental exposures at the United States census tract level**," *Health & Place*, 89, p.103303. ISSN 1353-8292. [https://www.sciencedirect.com/science/article/pii/S135382922400131X](https://doi.org/10.1016/j.healthplace.2024.103303).
 
 ## Introduction
 
